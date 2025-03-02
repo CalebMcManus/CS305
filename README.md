@@ -24,3 +24,8 @@ when I can as the data base has a list of known issues and ways to fix them if t
 
 I actually tested the code in use to see if the application was functing as intended. I have multiple pc so I tested the encryption of the web server to with another pc. I ran the vulnrability tool before and took a download of 
 the file and ran the tool after and compared the two files to make sure that I had not created more problems than I fixed.
+
+6-What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
+
+As previously mentioned above, The vulnarability tool and the vulnrability databases were pretty useful as it is maintained by dedicated and legal hackers that try to help make our codebases saver. Besides that, 
+the algorithm encyrption is gonna be useful for future security usecases.
