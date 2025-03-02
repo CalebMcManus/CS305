@@ -10,3 +10,7 @@ After looking for the security risk, I did the research as a way to find a way t
 to be passed unsecurely and allow unathorized parties gain access to information. With the information detected, it builds the trust between the customer and the company which keeps profits up and protects the company 
 from cyber attacks.
 
+3-Which part of the vulnerability assessment was challenging or helpful to you?
+
+The most challenging part had to be finding the fixes and the exact causes of the assessment as sometimes, a dependency can have multiple vulnerability which makes it so you have to read through
+sometimes many unrelated issues.
