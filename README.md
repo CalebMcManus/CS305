@@ -29,3 +29,7 @@ the file and ran the tool after and compared the two files to make sure that I h
 
 As previously mentioned above, The vulnarability tool and the vulnrability databases were pretty useful as it is maintained by dedicated and legal hackers that try to help make our codebases saver. Besides that, 
 the algorithm encyrption is gonna be useful for future security usecases.
+
+7-Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
+
+I would show employers the very importance of cyber security as it is neccessary for the safety and well being not only the company, but the customer base of the company.
